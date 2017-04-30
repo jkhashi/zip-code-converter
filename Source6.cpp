@@ -73,12 +73,4 @@ void barcode(int digit)
 
 	else if (digit == 0)
 		cout << ("||:::"); //11000
-
-}
-
-
-void joeHeader(string joeheader)
-{
-	if (joeheader)
-
 }
